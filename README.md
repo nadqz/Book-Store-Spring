@@ -35,7 +35,7 @@ Menampilkan daftar buku yang tersedia dan disediakan oleh user.
 
 ## My Books Page
 Menampilkan buku-buku yang dimiliki atau dikelola oleh user.
-![alt text](https://github.com/nadqz/Book-Store-Spring/blob/main/Document/myBooks.png?raw=true)
+![alt text](https://github.com/nadqz/Book-Store-Spring/blob/main/Document/myBookList.png?raw=true)
 
 ## Edit Book Page
 Memungkinkan pengguna untuk mengedit detail dari buku yang ada. Pengguna dapat mengubah nama buku, penulis, dan harga buku.
