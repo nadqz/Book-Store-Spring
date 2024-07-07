@@ -1,4 +1,8 @@
-![Banner](docs/thumbnail.png)
+![Banner](Document/banner.png)
+
+Kelompok:
+Nada Fadhiilah Balqis
+NIM. 1217050107
 
 # Book Store
 Book Store website pengelola koleksi buku. Aplikasi ini memungkinkan pengguna untuk melihat buku yang tersedia, mengelola koleksi buku mereka sendiri, dan mengedit detail buku. Website ini dibangun menggunakan HTML, CSS, Bootstrap, dan Thymeleaf untuk bagian front-end dan Spring Boot untuk bagian back-end.
